@@ -1,9 +1,11 @@
-export default function Home() {
+const Loading = () => {
   return (
     <section className='py-24'>
       <div className='container'>
-        <h1 className='text-3xl font-bold'>NextJs 13 Starter Kit</h1>
+        <h2 className='text-2xl'>Loading...</h2>
       </div>
     </section>
   );
-}
+};
+
+export default Loading;

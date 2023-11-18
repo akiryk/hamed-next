@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with
 
 ## Getting Started
 
+- use Node v20
+
 - Vercel App: https://vercel.com/akiryk/hamed-next
 - Github: https://github.com/akiryk/hamed-next
 
